@@ -1,4 +1,4 @@
-# MAD-EXP-7-Develop an android application to display the place name with image using list view in android studio.
+# EXP-7-Develop an android application to display the place name with image using list view in android studio.
 
 ## AIM:
 
@@ -204,9 +204,7 @@ public class MyListAdapter extends ArrayAdapter<String> {
 }
 ```
 ## OUTPUT
-
-![image](https://github.com/Siddarthan999/MAD-EXP-7-Develop-an-android-application-to-Display-the-Place-Name-with-Image-using-List-View/assets/91734840/ea612c18-b656-40b6-985d-bec2467b6006)
-![image](https://github.com/Siddarthan999/MAD-EXP-7-Develop-an-android-application-to-Display-the-Place-Name-with-Image-using-List-View/assets/91734840/2bdefdcc-985a-40c6-bbe3-ce23c320d626)
-
+![image](https://github.com/rahulramakrishnann/EXPERIMENT--7-mad/assets/143045415/f2b28861-043a-417a-9b16-f49e2d63d970)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT--7-mad/assets/143045415/9de745a4-b987-4688-9eb6-202400b0c618)
 ## RESULT
 Thus, a Simple Android Application to create and develop the application to display the place name with image using list view in android studio is developed and executed successfully.
